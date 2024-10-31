@@ -2,10 +2,16 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        System.out.println(26);
+        System.out.println(27);
+        System.out.println(28);
+        System.out.println(29);
+        System.out.println(30);
         System.out.println(6);
         System.out.println(7);
         System.out.println(8);
-        System.out.println(9);
-        System.out.println(10);
+        System.out.println(1);
+        System.out.println(2);
+        System.out.println(3);
     }
 }
